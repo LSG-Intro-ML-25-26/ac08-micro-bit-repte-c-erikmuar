@@ -1,5 +1,5 @@
 {
-    "name": "microbit-emisora",
+    "name": "microbit-receptor",
     "description": "",
     "dependencies": {
         "core": "*",
